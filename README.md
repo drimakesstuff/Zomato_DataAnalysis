@@ -38,5 +38,5 @@ jupyter lab
 
 ---
 **Notes**
-Price ranges: 1 = cheap, 4 = very expensive
-Ratings: out of 5
+1. Price ranges: 1 = cheap, 4 = very expensive
+2. Ratings: out of 5
