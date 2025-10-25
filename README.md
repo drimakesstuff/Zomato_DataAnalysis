@@ -20,7 +20,8 @@ Analyze Zomato restaurant data to explore ratings, prices, cities, and cuisines.
 ## **Usage**
 
 1. **Clone the repository**:
-```bash
+```
+bash
 git clone https://github.com/drimakesstuff/Zomato_DataAnalysis.git
 ```
 2. **Install dependencies**:
