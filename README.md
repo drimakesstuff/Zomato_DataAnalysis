@@ -23,18 +23,18 @@ Analyze Zomato restaurant data to explore ratings, prices, cities, and cuisines.
 ```bash
 git clone https://github.com/drimakesstuff/Zomato_DataAnalysis.git
 ```
-2. Install dependencies:
+2. **Install dependencies**:
 ```
 bash
 
 pip install pandas matplotlib jupyterlab
 ```
-3. Run the notebook:
+3. **Run the notebook**:
 ```
 bash
 jupyter lab
 ```
-4. Open zomato.ipynb and run the cells.
+4. **Open zomato.ipynb and run the cells**.
 
 ---
 **Notes**
