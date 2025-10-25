@@ -38,6 +38,6 @@ jupyter lab
 4. **Open zomato.ipynb and run the cells**.
 
 ---
-**Notes**
+## **Notes**
 1. Price ranges: 1 = cheap, 4 = very expensive
 2. Ratings: out of 5
