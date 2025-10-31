@@ -41,3 +41,8 @@ jupyter lab
 ## **Notes**
 1. Price ranges: 1 = cheap, 4 = very expensive
 2. Ratings: out of 5
+
+---
+## Author
+
+Dri – BSc Data Science student
